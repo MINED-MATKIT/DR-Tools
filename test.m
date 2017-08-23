@@ -1,0 +1,3 @@
+cd Tests
+runtests;
+cd ..

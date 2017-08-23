@@ -1,0 +1,2 @@
+rmpath('./Icons')
+rmpath('./Functions')

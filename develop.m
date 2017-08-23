@@ -1,0 +1,2 @@
+addpath('./Icons')
+addpath('./Functions')
